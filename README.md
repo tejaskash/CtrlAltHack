@@ -1,6 +1,12 @@
 # CtrlAltHack
-Repository for Microsoft  Codefundo++
-Have to Update this file by October 12th
-We come up with ideas
-Think of solutions to mitigate, or help in disaster response rather than looking for ways to detect
+Uncontrolled blazes, fueled by wind, weather and dry brushwood, forest fires can burn hectares of land, and destroy everything in their path in mere minutes. Dry weather and drought convert vegetation into bone-dry provide combustible fuel which can support a fire fanned by strong winds and ignited by lighting.Forest fires are a common occurrence across the globe, especially in the summer months.. Every year, forest fires destroy millions of acres of lands, destroy the ecosystem supported by the fire, displace thousands of people from their homes and kill hundreds of people including the firefighters who work to stop the fire. 
+
+To aid firefighters in fighting fires, and reduce the impact of wildfires on the environment and the people, our solution proposes to implement an autonomous drone that will help firefighters by providing  
+
+Better connectivity among firefighters, and their base camps, by creating a network akin to a WiFi hotspot. 
+Infrared cameras on the drones help firefighters to peer through smoke from up high, helping them see conditions that the eye cannot. This allows them to better pinpoint the hottest areas of a wildfire, and gives them an advanced tool for monitoring a wildfire to ensure it is responding how they anticipated.
+Can be used to deliver fire suppressants or conversely they can be used to start controlled burns in order to create a fire line around the fire. 
+Perhaps the most important menace that our solution will tackle, is that of civilian drones flying in areas of ongoing fires. When such a drone is detected in the vicinity of the fire, all aerial firefighting operations must be ceased. In 2016, more than 40 drone flights interfered with wildfires, bringing aerial firefighting operations to a complete stop more than 20 times. In 2017, at least 25 shutdowns of aerial wildland firefighting efforts occurred due to drone incursions. Aerial firefighting tools (both manned and unmanned) are critical in fire suppression, as they supply chemicals, water and other fire suppressants in high quantities to areas that can only be reached by flying directly above. The helicopters and planes flying low to the ground, and unauthorized drones pose a high threat of collision when in the same airspace. Our solution will jam frequencies commonly used by civilian drones, thus incapacitating them in the vicinity. 
+
+Along with helping to fight fires, the drone can also be used to detect them, and alert the relevant authorities to take action. On identifying such fires a bot will send an alert to someone in charge. The bot will be hosted on azure and be integrated with natural language processing Luis cognitive service. The bot will be built with Microsoft bot framework in c# and . NET . Futuristic scope can be something on the lines of sms integration so that such message alerts can be sent to people in the vicinity, warning them of fires in their locality. 
 
