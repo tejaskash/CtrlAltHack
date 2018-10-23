@@ -1,0 +1,43 @@
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Bot Application.dll.config
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Bot Application.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Bot Application.pdb
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Autofac.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Chronic.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Microsoft.Bot.Builder.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Microsoft.Bot.Connector.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Newtonsoft.Json.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\System.Net.Http.Formatting.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\System.Web.Http.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\System.Web.Http.WebHost.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Autofac.xml
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Microsoft.Bot.Builder.xml
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Microsoft.Bot.Connector.xml
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Newtonsoft.Json.xml
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\System.Net.Http.Formatting.xml
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\System.Web.Http.xml
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\System.Web.Http.WebHost.xml
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\obj\Debug\codefundo.csprojAssemblyReference.cache
+C:\Users\MAHE\source\repos\codefundo\codefundo\obj\Debug\codefundo.csproj.CoreCompileInputs.cache
+C:\Users\MAHE\source\repos\codefundo\codefundo\obj\Debug\codefundo.csproj.CopyComplete
+C:\Users\MAHE\source\repos\codefundo\codefundo\obj\Debug\Bot Application.dll
+C:\Users\MAHE\source\repos\codefundo\codefundo\obj\Debug\Bot Application.pdb
+C:\Users\MAHE\source\repos\codefundo\codefundo\bin\Microsoft.ProjectOxford.Vision.dll
