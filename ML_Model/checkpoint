@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/tejas/Desktop/Azure/fireornot-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "/home/tejas/Desktop/Azure/fireornot-0.001-2conv-basic.model"
