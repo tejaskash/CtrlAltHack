@@ -1,0 +1,1 @@
+This bot currently calls Microsofts Computer Vision api for object detection and returns a caption for an image or url sent by a user. In future the bot can be integrated with satellite images such that the api can be called on satellite images near the users location and hence forest fires can be detected.  
