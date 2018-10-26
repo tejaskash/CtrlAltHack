@@ -31,7 +31,9 @@ namespace Dialogs.Dialogs
         private async Task AgeReceived(IDialogContext context, IAwaitable<string> result)
         {
             age = await result;
-            PromptDialog.Text(context, this.ColorReceived, "Thank you. I am scouring through images of"+age+" to find fires....  I found 1 fire in the area of California. These are its GPS coordinates. 37.7749° N, 122.4194° W");
+            await context.PostAsync("Thank you. I am scouring through images of " + age + " to find fires."+ ". These are its GPS coordinates. 37.7749° N, 122.4194° W.");
+            
+            PromptDialog.Text(context, this.ColorReceived, "  ALERT!! I found 1 fire in the area of "+age+ " Please pay attention to broadcast radio.");
 
         }
         private async Task ColorReceived(IDialogContext context, IAwaitable<string>result)
